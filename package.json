@@ -1,0 +1,19 @@
+{
+	"name": "converso.js",
+	"version": "1.0.0",
+	"description": "Framework para integrar interacciones conversacionales con modelos de lenguaje en aplicaciones de JavaScript.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"conversational",
+		"framework",
+		"javascript"
+	],
+	"author": "Tu Nombre",
+	"license": "MIT",
+	"dependencies": {
+		"llamaindex": "^0.0.40"
+	}
+}
